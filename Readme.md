@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a fullstack engineer, pursuing B-Tech in CSE from IIIT Sri City<br>👯 I love  programming and I am very much interested in learning new technological areas and exploring many fields<br>🤝 I am seeking a career with a progressive organization that provides an opportunity to enhance my technical skills.<br>🌱 Open to work, Looking for Intrenships/Full-time roles<br>💬 Ask me about DSA Problem Solving<br>⚡ Fun fact - Life is like 42 in binary.
+🔭 I am a iOS,fullstack engineer, pursuing B-Tech in CSE from IIIT Sri City<br>👯 I love  programming and I am very much interested in learning new technological areas and exploring many fields<br>🤝 I am seeking a career with a progressive organization that provides an opportunity to enhance my technical skills.<br>🌱 Open to work, Looking for Full-time roles<br>💬 Ask me about DSA Problem Solving<br>⚡ Fun fact - Life is like 42 in binary.
 
 
 ## 🌐 Socials:
