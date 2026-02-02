@@ -4,8 +4,8 @@
 
 ### iOS Engineer · On-Device AI Enthusiast · Performance Obsessed
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhiltej-karnakoti-5750021ba)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akhiltej_36_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhiltej-karnakoti/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akhiltej_k/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhiltej0089@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007AFF&center=true&vCenter=true&width=600&lines=Building+intelligent+iOS+experiences;On-device+AI+%7C+ML+%7C+Performance;Swift+%7C+SwiftUI+%7C+Core+ML;Privacy-first%2C+offline-capable+apps" alt="Typing SVG" />
