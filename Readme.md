@@ -85,10 +85,8 @@ My mission? Master **on-device AI** to build apps that are smart, fast, and work
 `Aug 2024 - Present` · Gurgaon
 
 - **Led iOS 26 Liquid Glass migration** — app featured on App Store on launch day
-- Shipped **10+ business-critical features**: EMI, Gyftr, Forex Cards, filters/search, brand deals
-- Built **CI/CD pipeline from scratch** using Jenkins + Slack integration
-- Migrated UIKit components to **SwiftUI** with server-driven UI architecture
-- Implemented in-house analytics, **Snapshot testing**, accessibility & Keychain integration
+- Shipped **15+ business-critical features**: EMI, Gyftr, Forex Cards, filters/search, brand deals
+- ownership of the search and post order experience
 
 ### Signzy · Software Development Intern
 `Jan 2024 - Aug 2024` · Bangalore
